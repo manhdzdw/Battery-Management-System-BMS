@@ -1,8 +1,8 @@
 # Hardware Design
 
-This folder contains hardware design files and documentation for the BMS prototype.
+This folder contains the hardware design files and images for the Battery Management System prototype.
 
-## Main Hardware Blocks
+## Hardware Blocks
 - Power supply block using LM2596S
 - ESP32 central controller block
 - Cell voltage measurement circuit using voltage dividers and ADS1115
@@ -16,3 +16,6 @@ This folder contains hardware design files and documentation for the BMS prototy
 
 ## PCB Design Tool
 - Altium Designer
+
+## Prototype
+The circuit was designed, assembled, and tested with a 6S2P Lithium-ion battery pack.
